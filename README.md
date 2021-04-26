@@ -7,13 +7,16 @@
 - <https://app.codility.com/programmers/challenges/olx_group2020/>
 - <https://app.codility.com/programmers/task/multivitamin/>
 
-## Others
-
-| File                     | Complexity      | Description                                                  | Result | URL                                                         |
-| ------------------------ | --------------- | ------------------------------------------------------------ | ------ | ----------------------------------------------------------- |
-| `TheOLXGroup2020A.java`  | `O(N^2)`        | Sorted juice, using `int []`                                 | OK     | <https://app.codility.com/demo/results/trainingWYKC29-9FG/> |
-| `TheOLXGroup2020A2.java` | `O(N * log(N))` | Sorted Juice, check only biggest capacity and biggest empty. | Good   | <https://app.codility.com/demo/results/trainingXYKRYX-DZ3/> |
+## Versions
 
 - Result
   - `Good`: Correctness 100%, Performance 100%.
   - `OK`: Correctness 100%, Performance <100%.
+- File naming convention
+  - Code `A`: File `TheOLXGroup2020A.java`
+  - Code `A2`: File `TheOLXGroup2020A2.java`
+
+| Code | Complexity      | Description                                                  | Result | Report                                                                  |
+| ---- | --------------- | ------------------------------------------------------------ | ------ | ----------------------------------------------------------------------- |
+| `A`  | `O(N^2)`        | Sorted juice, using `int []`                                 | OK     | [WYKC29-9FG](https://app.codility.com/demo/results/trainingWYKC29-9FG/) |
+| `A2` | `O(N * log(N))` | Sorted Juice, check only biggest capacity and biggest empty. | Good   | [XYKRYX-DZ3](https://app.codility.com/demo/results/trainingXYKRYX-DZ3/) |
