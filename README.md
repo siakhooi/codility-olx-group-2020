@@ -18,5 +18,5 @@
 
 | Code | Complexity      | Description                                                  | Result | Report                                                                  |
 | ---- | --------------- | ------------------------------------------------------------ | ------ | ----------------------------------------------------------------------- |
-| `A`  | `O(N^2)`        | Sorted juice, using `int []`                                 | OK     | [WYKC29-9FG](https://app.codility.com/demo/results/trainingWYKC29-9FG/) |
-| `A2` | `O(N * log(N))` | Sorted Juice, check only biggest capacity and biggest empty. | Good   | [XYKRYX-DZ3](https://app.codility.com/demo/results/trainingXYKRYX-DZ3/) |
+| `A`  | `O(N^2)`        | Sorted juice, using `int []`                                 | `OK`   | [WYKC29-9FG](https://app.codility.com/demo/results/trainingWYKC29-9FG/) |
+| `A2` | `O(N * log(N))` | Sorted Juice, check only biggest capacity and biggest empty. | `Good` | [XYKRYX-DZ3](https://app.codility.com/demo/results/trainingXYKRYX-DZ3/) |
